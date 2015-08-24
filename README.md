@@ -7,4 +7,4 @@ oauthcredentials {
     consumerSecret = xxxxxx
     accessToken = xxxxx
     accessTokenSecret = xxxxx
-}
+ }
